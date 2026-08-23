@@ -11,19 +11,19 @@ This repository contains a complete 30-day multi-channel growth marketing campai
 
 ## Repository Contents
 
-| File | Week | Description |
-|---|---|---|
-| `Week1_Persona_Funnel_Mapping.docx` | Week 1 | Competitor marketing channel audit (Asana, Monday.com, Trello), 3 customer personas, and TOFU/MOFU/BOFU funnel stage mapping |
-| `FlowDesk_Marketing_Strategy.docx` | Weeks 1 & 3 | Full strategy document: product overview, 3 customer personas, funnel mapping, LinkedIn & Google ad campaigns, and the 5-email nurture drip sequence |
-| `FlowDesk_Content_Calendar_and_CAC_LTV_Model.xlsx` | Weeks 2 & 4 | **Tab 1 – Content Calendar:** 30 days of post copy + visual concepts across LinkedIn, X/Twitter, and Blog, each tagged to a funnel stage. **Tab 2 – CAC-LTV Model:** live financial model calculating Customer Acquisition Cost, Lifetime Value, LTV:CAC ratio, and payback period |
-| `README.md` | — | This file — updated continuously as each week's deliverables are added |
+| File | Description |
+|---|---|
+| `FlowDesk_Marketing_Strategy.docx` | Full strategy document: product overview, competitor marketing channel audit (Asana, Monday.com, Trello) with a competitive positioning map, 3 customer personas, TOFU/MOFU/BOFU funnel mapping with diagrams, LinkedIn & Google ad campaigns, and the 5-email nurture drip sequence |
+| `FlowDesk_Content_Calendar_and_CAC_LTV_Model.xlsx` | **Tab 1 – Content Calendar:** 30 days of post copy + visual concepts across LinkedIn, X/Twitter, and Blog, each tagged to a funnel stage. **Tab 2 – CAC-LTV Model:** live financial model calculating Customer Acquisition Cost, Lifetime Value, LTV:CAC ratio, and payback period |
+| `README.md` | This file — updated continuously as deliverables are added or changed |
 
-> This table is kept up to date as new weekly deliverables are added to the repo. Check back here first to see the current file list.
+> This table is kept up to date as the repo changes. Check back here first to see the current file list.
 
 ## Key Features / Deliverables
 
 - ✅ 3 detailed Ideal Customer Profiles (ICPs) with goals, pain points, and channel habits
 - ✅ Funnel mapping (TOFU / MOFU / BOFU) tying every content type to a buying stage
+- ✅ Visual diagrams: competitive positioning map, persona-to-funnel entry flow, and funnel stage flowchart
 - ✅ 30-day organic content calendar across 3 platforms with full post copy
 - ✅ 3 LinkedIn ad variants with targeting rules
 - ✅ 2 Google Search ad groups (category + competitor keywords) with headlines/descriptions
@@ -62,7 +62,7 @@ None — both deliverables are static Office documents (`.docx`, `.xlsx`) viewab
 
 | Week | Focus | Status |
 |---|---|---|
-| Week 1 | Persona definition, competitor audit, funnel mapping | ✅ Complete — `Week1_Persona_Funnel_Mapping.docx` |
+| Week 1 | Persona definition, competitor audit, funnel mapping | ✅ Complete — see Marketing Strategy doc |
 | Week 2 | 30-day organic content calendar (LinkedIn, X, Blog) | ✅ Complete — see Content Calendar tab |
 | Week 3 | Paid ad campaigns (LinkedIn + Google) and email drip sequence | ✅ Complete — see Marketing Strategy doc |
 | Week 4 | CAC/LTV financial model and ROI presentation | ✅ Complete — see CAC-LTV Model tab |
