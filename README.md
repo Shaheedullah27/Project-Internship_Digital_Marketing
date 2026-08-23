@@ -11,11 +11,14 @@ This repository contains a complete 30-day multi-channel growth marketing campai
 
 ## Repository Contents
 
-| File | Description |
-|---|---|
-| `FlowDesk_Marketing_Strategy.docx` | Full strategy document: product overview, 3 customer personas, TOFU/MOFU/BOFU funnel mapping, LinkedIn & Google ad campaigns, and the 5-email nurture drip sequence |
-| `FlowDesk_Content_Calendar_and_CAC_LTV_Model.xlsx` | **Tab 1 – Content Calendar:** 30 days of post copy + visual concepts across LinkedIn, X/Twitter, and Blog, each tagged to a funnel stage. **Tab 2 – CAC-LTV Model:** live financial model calculating Customer Acquisition Cost, Lifetime Value, LTV:CAC ratio, and payback period |
-| `README.md` | This file |
+| File | Week | Description |
+|---|---|---|
+| `Week1_Persona_Funnel_Mapping.docx` | Week 1 | Competitor marketing channel audit (Asana, Monday.com, Trello), 3 customer personas, and TOFU/MOFU/BOFU funnel stage mapping |
+| `FlowDesk_Marketing_Strategy.docx` | Weeks 1 & 3 | Full strategy document: product overview, 3 customer personas, funnel mapping, LinkedIn & Google ad campaigns, and the 5-email nurture drip sequence |
+| `FlowDesk_Content_Calendar_and_CAC_LTV_Model.xlsx` | Weeks 2 & 4 | **Tab 1 – Content Calendar:** 30 days of post copy + visual concepts across LinkedIn, X/Twitter, and Blog, each tagged to a funnel stage. **Tab 2 – CAC-LTV Model:** live financial model calculating Customer Acquisition Cost, Lifetime Value, LTV:CAC ratio, and payback period |
+| `README.md` | — | This file — updated continuously as each week's deliverables are added |
+
+> This table is kept up to date as new weekly deliverables are added to the repo. Check back here first to see the current file list.
 
 ## Key Features / Deliverables
 
@@ -57,12 +60,13 @@ None — both deliverables are static Office documents (`.docx`, `.xlsx`) viewab
 
 ## Project Timeline (4-Week Schedule)
 
-| Week | Focus |
-|---|---|
-| Week 1 | Persona definition, competitor audit, funnel mapping |
-| Week 2 | 30-day organic content calendar (LinkedIn, X, Blog) |
-| Week 3 | Paid ad campaigns (LinkedIn + Google) and email drip sequence |
-| Week 4 | CAC/LTV financial model and ROI presentation |
+| Week | Focus | Status |
+|---|---|---|
+| Week 1 | Persona definition, competitor audit, funnel mapping | ✅ Complete — `Week1_Persona_Funnel_Mapping.docx` |
+| Week 2 | 30-day organic content calendar (LinkedIn, X, Blog) | ✅ Complete — see Content Calendar tab |
+| Week 3 | Paid ad campaigns (LinkedIn + Google) and email drip sequence | ✅ Complete — see Marketing Strategy doc |
+| Week 4 | CAC/LTV financial model and ROI presentation | ✅ Complete — see CAC-LTV Model tab |
+| Demo Video | 2–4 min screen walkthrough of all deliverables | ⬜ Pending |
 
 ## Author
 
